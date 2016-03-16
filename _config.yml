@@ -1,0 +1,13 @@
+layout_spectrum: 0.9702128
+color:
+  saturation: 0.6446809
+  lightness: 0.3489362
+  brandStrength: 0.3595745
+  brandColors:
+    - '#C7C5C6'
+    - '#7F7765'
+    - '#383B38'
+    - '#92A3B3'
+  rhythmicContrast: 0.4276596
+typography_spectrum: 0.2531915
+name: "Let's Learn How"
